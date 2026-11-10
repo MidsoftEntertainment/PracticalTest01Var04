@@ -23,6 +23,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PracticalTest01Var04SecondaryActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PracticalTest01Var04" />
     </application>
 
 </manifest>

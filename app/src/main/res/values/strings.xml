@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PracticalTest01Var04</string>
+    <string name="transfer">Navigate to secondary activity</string>
+    <string name="show">Display information</string>
+    <string name="first_field">Text 1</string>
+    <string name="second_field">Text 2</string>
+    <string name="empty_field_error">Empty text field</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="result_ok">Result: OK</string>
+    <string name="result_canceled">Result: Cancel</string>
 </resources>
